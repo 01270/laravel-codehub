@@ -1,7 +1,5 @@
 # laravel CodeHub
 
-## Help
-
 install requirements
 ```
 php artisan migrate
