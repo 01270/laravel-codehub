@@ -1,2 +1,17 @@
-# laravel-codehub
-Simple website built using laravel php
+# laravel CodeHub
+
+## Help
+
+install requirements
+```
+php artisan migrate
+
+```
+```
+php artisan storage:link
+
+```
+```
+php artisan serve
+
+```
