@@ -2,6 +2,9 @@
 
 install requirements
 ```
+composer install
+```
+```
 php artisan migrate
 ```
 ```
